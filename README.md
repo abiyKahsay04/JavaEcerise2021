@@ -1,2 +1,2 @@
-# JavaEcerise2021
+# JavaExcises2021
 Java
